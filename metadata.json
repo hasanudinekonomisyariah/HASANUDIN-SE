@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Aplikasi Absensi Guru SD Negeri 2 Pongo",
+  "description": "Aplikasi untuk mengelola absensi (finger) pegawai guru di SD Negeri 2 Pongo, lengkap dengan fitur laporan, edit, hapus, dan unduh data dalam format PDF dan Excel.",
+  "requestFramePermissions": []
+}
